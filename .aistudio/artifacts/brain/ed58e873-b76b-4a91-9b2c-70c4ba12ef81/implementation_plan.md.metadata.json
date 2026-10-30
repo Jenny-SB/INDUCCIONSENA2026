@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación arquitectónica para la integración de Google Drive y Google Sheets en el Portal de Inducción SENA. El plan define la creación automática de la hoja de cálculo institucional, la sincronización en dos momentos clave (registro y finalización de la evaluación), las columnas de datos exactas, el flujo OAuth con Firebase Auth y los controles de gestión para instructores.",
+  "updatedAt":  "2026-10-28T16:43:03.313258979Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
